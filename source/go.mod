@@ -1,4 +1,4 @@
-module github.com/dr-leee/go/source
+module github.com/dr-leee/source/source
 
 go 1.19
 
